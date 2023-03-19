@@ -1,0 +1,1 @@
+ffmpeg -ss 00:04:20 -t 00:00:50 -i "videoplayback.mp4" -vcodec copy -acodec copy  "03.mp4"
